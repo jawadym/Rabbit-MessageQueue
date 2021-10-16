@@ -1,0 +1,5 @@
+# Ignore environment variables configs
+.env
+
+# Ignore build executables
+rabbit
